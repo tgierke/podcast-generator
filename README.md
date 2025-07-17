@@ -191,12 +191,6 @@ pip install -r requirements.txt
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## 🎊 **Success Stories**
-
-> "The Music Publishing Beat has become essential listening for our executive team. The AI-generated insights are surprisingly sophisticated and always actionable." - Music Publishing Executive
-
-> "Deployed this for our construction industry newsletter. Went from manual curation to fully automated in one weekend." - Construction Tech Startup
-
 ## 🔗 **Links**
 
 - **Live Demo**: https://3dhkilcjv1l9.manus.space
